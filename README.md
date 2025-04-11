@@ -1,5 +1,5 @@
 # 🧬 catchSNV 
-catchSNV is a solution that finds SNVs in a FASTA file sent from the user and compares it to a reference sequence available at GenBank. It generates a .csv report of the variant, its position, and the reference nucleotide available from GenBank.
+catchSNV is a solution that finds SNVs in a FASTA file sent from the user by comparing it to a reference sequence available at GenBank. It generates a .csv report of the variant, its position, and the reference nucleotide available from GenBank.
 
 ## Highlights
 - Easy to use.
