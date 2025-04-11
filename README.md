@@ -17,7 +17,7 @@ I'm a biomedical scientist, working in Data science, computational biology, and 
 
 ## Usage
 
-- Go to the file's folder, by command line or bash, and run the following:
+- Go to the file's folder, by command line, and run the following:
 
 ```
 python main.py
